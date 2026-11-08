@@ -1,4 +1,4 @@
-package com.dineshK.Razorpay.merchant.Mapper;
+package com.dineshK.Razorpay.merchant.mapper;
 
 import com.dineshK.Razorpay.merchant.dto.response.ApiKeyCreateResponse;
 import com.dineshK.Razorpay.merchant.dto.response.ApiKeyResponse;

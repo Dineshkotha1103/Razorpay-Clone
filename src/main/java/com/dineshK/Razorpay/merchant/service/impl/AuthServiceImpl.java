@@ -4,7 +4,7 @@ import com.dineshK.Razorpay.common.enums.MerchantStatus;
 import com.dineshK.Razorpay.common.enums.UserRole;
 import com.dineshK.Razorpay.common.exception.DuplicateResourceException;
 import com.dineshK.Razorpay.common.exception.ResourceNotFoundException;
-import com.dineshK.Razorpay.merchant.Mapper.MerchantMapper;
+import com.dineshK.Razorpay.merchant.mapper.MerchantMapper;
 import com.dineshK.Razorpay.merchant.dto.request.LoginRequest;
 import com.dineshK.Razorpay.merchant.dto.request.MerchantSignupRequest;
 import com.dineshK.Razorpay.merchant.dto.response.LoginResponse;
